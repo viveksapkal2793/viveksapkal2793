@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Hi there! I'm Vivek Sapkal, a third-year undergraduate student majoring in Artificial Intelligence and Data Science at IIT Jodhpur. My journey in technology is driven by a passion for learning and building innovative solutions.
 
 #### A bit about me:
